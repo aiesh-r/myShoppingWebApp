@@ -1,0 +1,14 @@
+/*Fonts*/
+$primary_font: "normal normal bold 16px/21px Roboto";
+$secondary_font: "normal normal 300 14px/19px Roboto-light;";
+$heading_font: "normal normal bold 32px/43px Roboto;";
+$primary_color: #1e4ebe;
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0 !important;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
