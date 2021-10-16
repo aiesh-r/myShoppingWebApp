@@ -1,0 +1,11 @@
+.header {
+  background-color: rgba(15, 167, 238, 0.918);
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
